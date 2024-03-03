@@ -1,7 +1,6 @@
 # Lessons:
-# - Objects
-# - Attributes and Methods
-# - Init
+# - @classmethod
+# - @staticmethod
 class PlayerCharacter:
     membership = True
 
