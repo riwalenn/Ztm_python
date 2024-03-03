@@ -1,6 +1,7 @@
 # Some of the topics covered in this course are:
 - Objects : creating Our Own Object
 - Attributes and Methods
+- init
 - @classmethod and @staticmethod
 - Encapsulation
 - Abstraction
