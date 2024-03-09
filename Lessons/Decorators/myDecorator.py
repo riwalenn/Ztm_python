@@ -14,8 +14,15 @@ def performance(fn):
 
 @performance
 def long_time():
+    print('first')
     for i in range(10000000):
         i * 5
 
+@performance
+def long_time2():
+    print('second')
+    for i in list(range(10000000)):
+        i * 5
 
 long_time()
+long_time2()
