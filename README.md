@@ -13,3 +13,7 @@
 - Dunder Methods
 - Multiple Inheritance
 - MRO - Method Resolution Order
+- Functional Programming
+- Decorators
+- Errors Handling
+- Generators
