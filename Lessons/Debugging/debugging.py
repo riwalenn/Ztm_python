@@ -1,5 +1,5 @@
 # Lessons
-# - debugging :
+# - Debugging :
 #    - linting
 #    - ide / editor
 #    - read errors
